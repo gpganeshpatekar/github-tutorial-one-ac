@@ -1,3 +1,4 @@
 # github-tutorial-one-ac
-This repository is for github tutorial.
-This repository is for the apna college's GitHub tutorial.
+<h1>This repository is for github tutorial.</h1>
+<br>
+<h2>This repository is for the apna college's GitHub tutorial.</h2>
